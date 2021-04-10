@@ -85,5 +85,6 @@ The following 4 tables were created using AWS RDS, PostgresSQL, PgAdmin, Google 
 
  ![Resources/Five_Star_Reviews_Percentage](Resources/Five_Star_Reviews_Percentage.PNG)
  
- To support the statement above we should consider performing hypothesis testing using 
+ To support the statement above we should consider performing hypothesis testing to find out whether there is significant difference between Vine reviews and non-Vine reviews. We could also test for correlation between "star rating" and "vine" variables and see whether they are positively or negatively correlated.
+
   
