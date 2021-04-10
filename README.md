@@ -52,7 +52,7 @@ The following 4 tables were created using AWS RDS, PostgresSQL, PgAdmin, Google 
 
 ![Resources/Vine_table](Resources/Vine_table.PNG)
 
-### We first create two dataframes separating reviews for Vines program (paid) and Non-Vines (unpaid) -> see pictures below
+### We first create two dataframes separating reviews for Vine program (paid) and Non-Vine (unpaid) -> see pictures below
 
 ![Resources/Vine_program_df](Resources/Vine_program_df.PNG)
 
@@ -61,21 +61,21 @@ The following 4 tables were created using AWS RDS, PostgresSQL, PgAdmin, Google 
 
 **How many Vine reviews and non-Vine reviews were there?**
 
-- There were 1266 Vines reviews and 62028 non-Vines reviews
+- There were 1266 Vine reviews and 62028 non-Vine reviews
 
 ![Resources/Total_number-of-reviews](Resources/Total_number-of-reviews.PNG)
 
 **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
 
-- There were 432 Vines reviews that were rated as 5 stars
-- There were 29982 non-Vines reviews that were rated as 5 stars
+- There were 432 Vine reviews that were rated as 5 stars
+- There were 29982 non-Vine reviews that were rated as 5 stars
 
 ![Resources/Five_Star_Reviews](Resources/Five_Star_Reviews.PNG)
 
 **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
-- 34% of Vines reviews were 5 stars
-- 48% of non-Vines reviews were 5 stars
+- 34% of Vine reviews were 5 stars
+- 48% of non-Vine reviews were 5 stars
 
 ![Resources/Five_Star_Reviews_Percentage](Resources/Five_Star_Reviews_Percentage.PNG)
 
